@@ -1,6 +1,7 @@
 # Node.js pdf docs
 
-*For my own use*
+*For my own use*.
+
 Convert Node.js `markdown` doc to `pdf` format.
 
 ## Doc Version
